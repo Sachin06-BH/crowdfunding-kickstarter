@@ -42,6 +42,7 @@ data-driven decisions for successful crowdfunding campaigns.
 
 ## 📁 Project Structure
 crowd_funding/
+
 ├── images/ # Dashboard screenshots
 
 ├── Raw data/ # Original crowdfunding dataset
