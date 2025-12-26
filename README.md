@@ -43,9 +43,13 @@ data-driven decisions for successful crowdfunding campaigns.
 ## 📁 Project Structure
 crowd_funding/
 ├── images/ # Dashboard screenshots
+
 ├── Raw data/ # Original crowdfunding dataset
+
 ├── crowdfunding.sql # SQL queries used for analysis
+
 ├── .gitignore # Excludes large working files
+
 └── README.md # Complete project documentation
 
 ---
