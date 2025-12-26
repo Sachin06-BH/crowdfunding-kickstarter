@@ -1,0 +1,7 @@
+# Prevent large analytics files
+*.xlsx
+*.pbix
+*.twbx
+
+# Temporary Excel files
+~$*.xlsx
